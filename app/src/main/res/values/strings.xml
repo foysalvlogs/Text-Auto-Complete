@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Text Auto Complete</string>
+
+    <string-array name="allurl">
+
+        <item>ask.fm</item>
+        <item>vk.com</item>
+        <item>pinterest.com</item>
+        <item>tumblr.com</item>
+        <item>vimeo.com</item>
+        <item>twitter.com</item>
+        <item>soundcloud.com</item>
+        <item>linkedin.com</item>
+        <item>ok.ru</item>
+        <item>facebook.com</item>
+        <item>youtube.com</item>
+
+    </string-array>
+
+</resources>
